@@ -1,3 +1,6 @@
 {
-    "cert_file" : "/home/fda/fsa.pem"
+    "partner" : "xxxx",
+    "cert_file" : "/home/fda/fsa.pem",
+    "secret" : "aabbcceeddffgghhiijjkkxxmmnnbbvv",
+    "version" : "1.3"
 }
