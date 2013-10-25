@@ -1,6 +1,6 @@
 {
   "name": "kk-payment-kypay",
-  "version": "0.1.3",
+  "version": "0.1.1",
   "description": "kk-payment-kypay",
   "private" : false,
   "main": "index.js",
