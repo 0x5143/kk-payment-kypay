@@ -19,5 +19,6 @@
   "author": "yunjing <hqc2010@gmail.com>",
   "license": "MIT",
   "dependencies" : {
+    "ursa" : "latest"
   }   
 }
